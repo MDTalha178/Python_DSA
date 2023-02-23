@@ -1,11 +1,11 @@
-# defing a list 
-li = [1,2,3,4]
+# define a list
+li = [1, 2, 3, 4]
 
-# postive index
-"""Access an with postive index.
-   when we access an element with postive index it will give an element from starting
+# positive index
+"""Access an with positive index.
+   when we access an element with positive index it will give an element from starting
 """
-print(li[1], "Access an element with positive postive index")
+print(li[1], "Access an element with positive positive index")
 
 # negative index
 """Access an element with negative negative index
@@ -18,9 +18,8 @@ print(li[-1], "Access an element with negative index")
    it works with this structure:
    list = [start_index, end_index, step]
 """
-print(li[1:],end= " ")
+print(li[1:], end=" ")
 print("it will all element from index 1 to last index")
-
 
 """it will give you all elements from index 1 to last index
 """
